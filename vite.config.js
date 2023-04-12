@@ -8,7 +8,8 @@ export default defineConfig({
     rollupOptions: {
       input: {
         main: resolve(__dirname, 'index.html'),
-        subpage: resolve(__dirname, 'subpage/index.html'),
+        subpage1: resolve(__dirname, 'subpage1/index.html'),
+        subpage2: resolve(__dirname, 'subpage2/index.html'),
       },
     },
   },
