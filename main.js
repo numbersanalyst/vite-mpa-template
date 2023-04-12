@@ -19,7 +19,9 @@ document.querySelector('#app').innerHTML = `
     <p class="read-the-docs">
       Click on the Vite logo to learn more
     </p>
-    <a href="subpage/index.html">Subpage</a>
+    <a href="subpage1/index.html">Subpage1</a>
+    <br>
+    <a href="subpage2/index.html">Subpage2</a>
   </div>
 `;
 
